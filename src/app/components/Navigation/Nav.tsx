@@ -1,4 +1,3 @@
-import Link from "next/link";
 import React from "react";
 import NavLink from "./NavLink";
 import { Bars3BottomRightIcon } from "@heroicons/react/16/solid";
